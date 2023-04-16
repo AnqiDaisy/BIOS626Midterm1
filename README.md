@@ -1,4 +1,4 @@
-# BIOS626Midterm1
+# BIOS626Midterm1 - Anqi
 
 # Introduction
 In this question, we are trying to use the sensor signal data from different part of body movement to identify the type of activities. Six activities are considerd, including three static postures (standing, sitting, lying) and three dynamic activities (walking, walking downstairs, and walking upstairs). Postural transitions that occurred between the static postures are also recorded, including stand-to-sit, sit-to-stand, sit-to-lie, lie-to-sit, stand-to-lie, and lie-to-stand.
